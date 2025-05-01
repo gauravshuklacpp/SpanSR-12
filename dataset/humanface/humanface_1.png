@@ -1,0 +1,11 @@
+#/bin/bash
+
+#script to change the file names
+
+i=1
+for f in *.*; do
+  [ $i -gt 10 ] && break
+  mv -- "$f" "humanface_$i.png"
+  ((i++))
+done
+
