@@ -4,13 +4,13 @@
 
 ## Dataset Sources
 
-| *Category*            | *Dataset*                        | *URL*                                                                                                                                                          |
-| ----------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Category*             | *Dataset*                         | *URL*                                                                                                                                                          |
+|:---------------------- |:--------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Aerial Images           | DOTA                               | [Link](https://www.kaggle.com/datasets/chandlertimm/dota-data)                                                                                                   |
 | Animals                 | Oxford-IIIT Pet                    | [Link](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)                                                                                  |
 | Anime                   | Anime Images                       | [Link](https://www.kaggle.com/datasets/diraizel/anime-images-dataset)                                                                                            |
 | Artwork                 | WikiArt GAN                        | [Link](https://www.kaggle.com/datasets/prasoonkottarathil/wikiart-gan)                                                                                           |
-| Buildings               | Urban100                           | [Link](https://www.kaggle.com/datasets/harshraone/urban100)                                                                                                                     |
+| Buildings               | Urban100                           | [Link](https://www.kaggle.com/datasets/harshraone/urban100)                                                                                                      |
 | Cars                    | Cars Image Dataset                 | [Link](https://www.kaggle.com/datasets/kshitij192/cars-image-dataset)                                                                                            |
 | Human Faces             | CelebA                             | [Link](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)                                                                                             |
 | Medical Imagery         | NIH Chest X-rays, Brain MRI        | [Link](https://www.kaggle.com/datasets/nih-chest-xrays/sample/data), [Link](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection) |
