@@ -4,7 +4,7 @@
 
 ## Dataset Sources
 
-| *Category*             | *Dataset*                         | *URL*                                                                                                                                                          |
+| **Category**             | **Dataset**                         | **URL**                                                                                                                                                          |
 |:---------------------- |:--------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Aerial Images           | DOTA                               | [Link](https://www.kaggle.com/datasets/chandlertimm/dota-data)                                                                                                   |
 | Animals                 | Oxford-IIIT Pet                    | [Link](https://www.kaggle.com/datasets/tanlikesmath/the-oxfordiiit-pet-dataset)                                                                                  |
