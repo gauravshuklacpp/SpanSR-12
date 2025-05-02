@@ -2,7 +2,7 @@
 
 **SpanSR-12** spans twelve distinct visual domains, providing a broad and diverse evaluation set for super-resolution models. The dataset includes high-quality images from twelve categories—**animals, anime, aerial, artwork, buildings, cars, human faces, medical scans, microscopic images, nature, text**, and **underwater images**—with **10 representative images per category**, totaling **120 images**.
 
-## Dataset Sources
+### Dataset Sources
 
 | **Category**             | **Dataset**                         | **URL**                                                                                                                                                          |
 |:---------------------- |:--------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
